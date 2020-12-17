@@ -15,4 +15,4 @@ get_rand
 # after the changes
 
 echo "added nothing"
-
+echo "added"
