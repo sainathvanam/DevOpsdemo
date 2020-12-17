@@ -13,3 +13,6 @@ get_rand
 # this line is edited in branch
 
 # after the changes
+
+echo "added nothing"
+
